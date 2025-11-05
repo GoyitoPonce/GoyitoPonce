@@ -3,7 +3,7 @@
 <h3 align="center"> "UN APASIONADO DESARROLLADOR DE SOFTWARE DE MÉXICO" &#127474;&#127485; </h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 Algunos de mis trabajos los puedes ver en <a href="https://poncedeveloper.net" target="_blank">Poncedeveloper</a>
